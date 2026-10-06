@@ -10,7 +10,7 @@ namespace SchoolSystem
     {
         static void Main(string[] args)
         {
-            //Part 1 – Student Information Sami
+            //Part 1 – Student Information 
             string studentName = "Sami Ali";
             int studentAge = 20;
             int studentGrade = 12;
